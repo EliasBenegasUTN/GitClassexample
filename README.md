@@ -1,1 +1,1 @@
-# GitClassexample
+# GitClassExample
